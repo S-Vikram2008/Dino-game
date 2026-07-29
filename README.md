@@ -323,6 +323,6 @@ This project is open source and available under the MIT License.
 
 # 👨‍💻 Author
 
-**S. Vikram**
+**S Vikram**
 
 GitHub: **https://github.com/S-Vikram2008**
