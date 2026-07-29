@@ -6,8 +6,8 @@ A simple recreation of the classic **Chrome Dino Game** built using **Python** a
 
 # 📸 Preview
 
-*(Add a screenshot or GIF of your game here.)*
-
+![Dino Game Screenshot](screenshot1.jpg)
+![Dino Game Screenshot](screenshot2.jpg)
 ---
 
 # ✨ Features
