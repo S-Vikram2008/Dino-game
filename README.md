@@ -41,7 +41,8 @@ Dino-Game/
 ├── SmallCactus1.png
 ├── LargeCactus1.png
 ├── README.md
-└── screenshot.png
+└── screenshot1.jpg
+└── screenshot2.jpg
 ```
 
 ---
